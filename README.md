@@ -8,7 +8,7 @@ Calls the Dapr secrets API.
 ## Run
 
     npm start
-=======
+
 ## Deploy
 
     az containerapp env dapr-component set \
