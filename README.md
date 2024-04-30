@@ -4,6 +4,11 @@ Simple Dapr test with Node-JS client.
 
 Calls the Dapr secrets API.
 
+
+## Run
+
+    npm start
+=======
 ## Deploy
 
     az containerapp env dapr-component set \
@@ -25,3 +30,4 @@ Calls the Dapr secrets API.
     --enable-dapr true \
     --cpu 0.25 \
     --memory 0.5
+
